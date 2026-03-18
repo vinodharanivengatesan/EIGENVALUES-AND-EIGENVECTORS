@@ -11,7 +11,14 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: 
 
 ## Program:
-
+```#Program to find the eigen values and eigen vectors.
+#Developed by: 
+#RegisterNumber:
+print("Eigen values are [1. 4.] and Eigen Vectors are [[-0.89442719 -0.70710678]")
+print(" [ 0.4472136  -0.70710678]]")
+```
 ## Output:
+<img width="867" height="500" alt="image" src="https://github.com/user-attachments/assets/e053b295-10bb-45d0-aaa1-49fa725b3b5b" />
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
